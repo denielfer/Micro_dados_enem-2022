@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 
-micro_dados/
+micro_dados/*
+*.csv
